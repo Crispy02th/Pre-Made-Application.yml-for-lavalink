@@ -1,6 +1,6 @@
 # ------ REMOVE THIS ------
 # This is a production ready YAML file with all configurations (PLACEHOLDERS), Always use official lavalink sources. For more information, join lavalink discord https://discord.gg/lavalink-1082302532421943407 
-
+# Use Lavalink 4.0.4 and Java 17+
 lavalink:
     defaultPluginRepository: https://maven.lavalink.dev/releases
     defaultPluginSnapshotRepository: https://maven.lavalink.dev/snapshots
